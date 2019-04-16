@@ -1,0 +1,4 @@
+## .gitignore file for tolua-scaffold
+
+## ignore folder fetched through gclient
+tolua
